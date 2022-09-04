@@ -12,7 +12,7 @@ Go to the directory where `mousetravel.py` is stored:
 python mousetravel.py
 ```
 
-#### With an instalation
+#### With an installation
 You can just call mousetravel from any directory
 ```
 mousetravel
