@@ -9,13 +9,13 @@ An [Odomoter](https://en.wikipedia.org/wiki/Odometer) for your mouse. This littl
 #### Without an installation
 Go to the directory where `mousetravel.py` is stored:
 ```
-python lightremote.py
+python mousetravel.py
 ```
 
 #### With an instalation
 You can just call mousetravel from any directory
 ```
-lightremote
+mousetravel
 ```
 
 ## Installation
