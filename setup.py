@@ -9,7 +9,6 @@ def readfile(filename):
 setup(
     name="mousetravel",
     version="1.0.0",
-    packages=[""],
     url="https://github.com/Smonman/mousetravel",
     license=readfile("LICENSE"),
     author="Simon Josef Kreuzpointner",
