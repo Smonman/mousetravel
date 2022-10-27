@@ -1,6 +1,6 @@
 # mousetravel
 
-An [odomoter](https://en.wikipedia.org/wiki/Odometer) for your mouse. This little tool / toy keeps track of the distance your mouse cursor traved in metric units.
+An [odomoter](https://en.wikipedia.org/wiki/Odometer) for your mouse. This little tool / toy keeps track of the distance your mouse cursor traveled in metric units.
 
 ## Tutorial
 
